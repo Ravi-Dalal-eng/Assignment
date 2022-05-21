@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Urvar Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="comments">Comments</string>
+    <string name="ayush_aggarwal">Ayush Aggarwal</string>
+    <string name="_2_hours_ago">2 hours ago</string>
+    <string name="question">QUESTION</string>
+    <string name="comment_caption">A yellow face with a frown and closed, downcast eyes, as if aching with sorrow or pain?</string>
+    <string name="_47_comments">47 Comments</string>
+    <string name="recent">Recent</string>
+    <string name="just_landed_on_urvar">Just landed on urvar</string>
+    <string name="_121_likes">121 likes</string>
+    <string name="share">share</string>
+    <string name="publicc">Public</string>
+    <string name="feed_caption">A yellow face with a frown and closed, downcast eyes, as if aching with sorrow or pain?</string>
+    <string name="likes">Likes</string>
+
+</resources>
